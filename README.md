@@ -4,5 +4,5 @@
 
 ## some explainations
 
-### Experiments will be recorded in the exc branch.
-### Experience that I learned in the Assembly Language learning will be recorded in the experience branch.
+### Experiments will be recorded in the exc folder.
+### Experience that I learned in the Assembly Language learning will be recorded in the experience folder.
