@@ -1,6 +1,6 @@
 # Assembly_language
 
-**I want to record the experienments that I did in the Assembly Language learning in this repository .**
+**I want to record the experiments that I did in the Assembly Language learning in this repository .**
 
 ## some explainations
 
