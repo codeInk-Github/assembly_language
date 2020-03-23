@@ -1,8 +1,8 @@
 # Assembly_language
 
-**in the repository I want to record the experienments that I did in the Assembly Language learning.**
+**I want to record the experienments that I did in the Assembly Language learning in this repository .**
 
 ## some explainations
 
-### The experienment will be record in the exs branch .
-### The experience that I learned in the Assembly Language learning  will be recorded in the experience branch.
+### Experiments will be recorded in the exc branch.
+### Experience that I learned in the Assembly Language learning will be recorded in the experience branch.
